@@ -1,16 +1,27 @@
-## Hi there 👋
+# Victoria Solomatin – Fullstack Developer
+- 📫 Let's connect [LinkedIn](https://www.linkedin.com/in/victoria-solomatin)
 
-<!--
-**victorias22/victorias22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there 👋 I'm Victoria, a passionate Full Stack Developer from Tel Aviv.  
+I love building secure, accessible, and user-centered web applications that make a real difference.
 
-Here are some ideas to get you started:
+- 🌍 Based in: Tel Aviv, Israel  
+- 👩‍💻 Recent work: EasyBagrut – AI-based education platform  
+- 🔒 Focus areas: Accessibility, Security , REST APIs, CI/CD  
+- 🤝 Open to meaningful work that combines tech with impact
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💼 Tech Stack
+
+- **Languages:** JavaScript, Python, Java, SQL, C  
+- **Frontend:** React.js, Material UI, TailwindCSS  
+- **Backend:** Node.js, Express.js, MVC, REST APIs  
+- **Databases:** MongoDB, Firebase (w/ security rules), Real-time DB  
+- **DevOps:** Docker, CI/CD (GitHub Actions), Postman  
+- **Security & Design:** JWT, RBAC, Helmet, CORS, Rate Limiting, API Versioning  
+- **Tools:** Git, GitHub, Jira, npm, Snyk, Winston, Pino  
+
+---
+
+
+
